@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <input name="message" v-model="msg">
-    <button :value="msg">click to test</button>
+    <button :value="msg">click to update</button>
     <h3>Installed CLI Plugins</h3>
     <ul>
       <li>
